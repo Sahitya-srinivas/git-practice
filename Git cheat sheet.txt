@@ -12,4 +12,4 @@ git status
 
 git remote add origin <URL>
 
-git push -u origin main
+git push -f -u origin main
